@@ -78,7 +78,7 @@
         <!-- YouTube Video -->
         <div class="left">
             <iframe id="videoFrame"
-                src="https://www.youtube.com/watch?v=k7ELO356Npo"
+                src="<iframe width="823" height="463" src="https://www.youtube.com/embed/k7ELO356Npo" title="Complete HTML Tutorial in 1 Video 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>"
                 title="HTML Full Course (in Hindi)"
                 allowfullscreen>
             </iframe>
