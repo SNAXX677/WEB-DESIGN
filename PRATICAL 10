@@ -78,7 +78,7 @@
         <!-- YouTube Video -->
         <div class="left">
             <iframe id="videoFrame"
-                src="https://www.youtube.com/embed/k2DSi1zGEc8"
+                src="https://www.youtube.com/watch?v=k7ELO356Npo"
                 title="HTML Full Course (in Hindi)"
                 allowfullscreen>
             </iframe>
